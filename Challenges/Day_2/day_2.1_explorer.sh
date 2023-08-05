@@ -36,7 +36,7 @@ if [[ $# -lt 1 ]]; then
        	exit 1
 fi
 
-#Source directory containing files to be backed up.
+#Source directory containing the files to be backed up.
 src_dir=/home/ubuntu/tws-batch/BashBlaze-7-Days-of-Bash-Scripting-Challenge/Challenges/
 
 #Target directory where backup will be stored.
