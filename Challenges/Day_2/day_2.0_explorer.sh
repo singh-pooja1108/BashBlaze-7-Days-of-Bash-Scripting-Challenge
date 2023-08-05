@@ -3,7 +3,7 @@
 #Author : Pooja Singh
 #Date   : 5-Aug-23
 #Repo   : prajwalpd7
-#purpose : 7 days bash script challange ---Day1 (Train with Shubham)
+#purpose : 7 days bash script challange ---Day2.0 (Train with Shubham)
 
 # Upon execution without any command-line arguments, the script will display a welcome message
 if [ $# -eq 0 ]
